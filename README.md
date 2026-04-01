@@ -1,6 +1,6 @@
 # Hackintosh-X79-Hobby
 
-Hi everyone! One evening I was sitting at my PC and thought, "what if...". And that "what if" became a Hackintosh on an X79 motherboard.
+Hi everyone! One evening I was sitting at my PC and thought, "what if...". And that "what if" install Hackintosh on an X79 motherboard.
 
 ## PC Specifications
 
