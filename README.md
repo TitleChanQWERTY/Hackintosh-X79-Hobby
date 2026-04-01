@@ -11,7 +11,6 @@ Hi everyone! One evening I was sitting at my PC and thought, "what if...". And t
 | **RAM** | 16 GB 1600 MHz DDR3 |
 | **GPU** | NVIDIA GeForce GTX 980 4GB |
 | **Audio Codec** | Realtek ALC662 |
-| **OS** | macOS Monterey 12.7.6 |
 | **SMBIOS** | Mac Pro (2019) |
 
 ## Prelude
